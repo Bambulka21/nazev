@@ -1,0 +1,61 @@
+body{
+text-align: center;
+background-color: rgb(155, 121, 235);
+}
+
+.kontejner{
+  
+   
+}
+
+base{
+    
+    
+}
+
+.hlavička{
+
+}
+
+.profil{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%; /*udela z čtverečku kruh*/
+    border: 4px solid navy;
+    background-color: rgb(42, 148, 219);
+    padding: 10px;
+    margin-bottom: 15px;
+    transition: transform 0.3s ease;
+}
+
+.profil:hover{
+    transform: scale(1.3) rotate(15deg);
+}
+
+.h1{
+
+}
+
+.karta{
+    border: 4px solid mediumblue;
+    margin: 50px;
+}
+
+
+.podtitul{
+    
+}
+
+.box{
+    margin: 50px;
+   border: 4px solid navy;
+}
+
+.patička{
+
+}
+
+.seznam-dovednosti{
+    border: 4px solid midnightblue;
+    margin: 90px;
+}
